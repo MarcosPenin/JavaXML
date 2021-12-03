@@ -1,0 +1,10 @@
+<ListadoPersonas>
+  <DatosPersona>
+    <firstname>marcos</firstname>
+    <lastname>gk</lastname>
+    <fax>
+      <code>123</code>
+      <number>321</number>
+    </fax>
+  </DatosPersona>
+</ListadoPersonas>

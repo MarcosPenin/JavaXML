@@ -1,0 +1,18 @@
+<ListadoPersonas>
+  <DatosPersona>
+    <firstname>ddd</firstname>
+    <lastname>sss</lastname>
+    <fax>
+      <code>123</code>
+      <number>21</number>
+    </fax>
+  </DatosPersona>
+  <DatosPersona>
+    <firstname>4444</firstname>
+    <lastname>444</lastname>
+    <fax>
+      <code>123</code>
+      <number>444</number>
+    </fax>
+  </DatosPersona>
+</ListadoPersonas>
